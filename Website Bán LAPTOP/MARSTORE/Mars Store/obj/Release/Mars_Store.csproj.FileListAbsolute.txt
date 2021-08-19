@@ -1,0 +1,134 @@
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Mars_Store.dll.config
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Mars_Store.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Mars_Store.pdb
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Antlr3.Runtime.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\EntityFramework.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\EntityFramework.SqlServer.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\LinqKit.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Newtonsoft.Json.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Owin.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\PagedList.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\PagedList.Mvc.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\SkyLinq.Linq.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Linq.Dynamic.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Helpers.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Mvc.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Optimization.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Razor.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.WebPages.Deployment.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.WebPages.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.WebPages.Razor.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\WebGrease.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Antlr3.Runtime.pdb
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\EntityFramework.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\EntityFramework.SqlServer.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\LinqKit.pdb
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\LinqKit.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\LinqKit.dll.config
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\Newtonsoft.Json.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\PagedList.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\PagedList.Mvc.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Helpers.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Mvc.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Optimization.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.Razor.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.WebPages.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.WebPages.Deployment.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\bin\System.Web.WebPages.Razor.xml
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\obj\Release\Mars_Store.csprojAssemblyReference.cache
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\obj\Release\Mars_Store.csproj.CoreCompileInputs.cache
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\obj\Release\Mars_Store.csproj.CopyComplete
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\obj\Release\Mars_Store.dll
+D:\[TEAM] - MARFULL_BV2106\MARFULL1906\Mars Store\obj\Release\Mars_Store.pdb
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Mars_Store.dll.config
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Mars_Store.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Mars_Store.pdb
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Antlr3.Runtime.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\EntityFramework.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\EntityFramework.SqlServer.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\LinqKit.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Newtonsoft.Json.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Owin.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\PagedList.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\PagedList.Mvc.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\SkyLinq.Linq.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Linq.Dynamic.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Helpers.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Mvc.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Optimization.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Razor.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.WebPages.Deployment.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.WebPages.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.WebPages.Razor.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\WebGrease.dll
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Antlr3.Runtime.pdb
+D:\MARSTORE\MARFULL1906\Mars Store\bin\EntityFramework.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\EntityFramework.SqlServer.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\LinqKit.pdb
+D:\MARSTORE\MARFULL1906\Mars Store\bin\LinqKit.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\LinqKit.dll.config
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\Newtonsoft.Json.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\PagedList.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\PagedList.Mvc.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Helpers.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Mvc.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Optimization.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.Razor.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.WebPages.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.WebPages.Deployment.xml
+D:\MARSTORE\MARFULL1906\Mars Store\bin\System.Web.WebPages.Razor.xml
+D:\MARSTORE\MARFULL1906\Mars Store\obj\Release\Mars_Store.csprojAssemblyReference.cache
+D:\MARSTORE\MARFULL1906\Mars Store\obj\Release\Mars_Store.csproj.CoreCompileInputs.cache
+D:\MARSTORE\MARFULL1906\Mars Store\obj\Release\Mars_Store.csproj.CopyComplete
+D:\MARSTORE\MARFULL1906\Mars Store\obj\Release\Mars_Store.dll
+D:\MARSTORE\MARFULL1906\Mars Store\obj\Release\Mars_Store.pdb

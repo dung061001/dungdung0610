@@ -1,0 +1,118 @@
+﻿<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    @*<title></title>*@
+    @*<link rel="stylesheet" href="/Content/bootstrap.min.css">*@
+    <script src="/Content/js/jquery.min.js"></script>
+    <script src="/Content/bootstrap.min.js"></script>
+    <title> MARS STORE | HOME </title>
+    <link href="/Content/images/id4.png" rel="shortcut icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    @*<link href="~/Content/css/bootstrap-responsive.min.css" rel="stylesheet" />
+    <link href="~/Content/css/base.css" rel="stylesheet" />
+    <link href="~/Content/css/font-awesome.css" rel="stylesheet" />*@
+    <link href="/Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/Content/css/menu.css" rel="stylesheet" type="text/css" media="all" />
+    @*<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>*@
+    <script src="/Content/js/script.js" type="text/javascript"></script>
+    @*<script type="text/javascript" src="/Content/js/jquery-1.7.2.min.js"></script>*@
+    <script type="text/javascript" src="/Content/js/nav.js"></script>
+    <script type="text/javascript" src="/Content/js/move-top.js"></script>
+    <script type="text/javascript" src="/Content/js/easing.js"></script>
+    <script type="text/javascript" src="/Content/js/nav-hover.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Doppio+One' rel='stylesheet' type='text/css'>
+    <script type="text/javascript">
+        $(document).ready(function ($) {
+            $('#dc_mega-menu-orange').dcMegaMenu({ rowItems: '4', speed: 'fast', effect: 'fade' });
+        });
+    </script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="header">
+            <div class="header_top">
+                <div class="logo">
+                    <a href="/SANPHAM"><img src="/Content/logo/logomar.png" width="320" height="100" alt="" /></a>
+                </div>
+                @Html.Partial("Top")
+                <div class="clear"></div>
+            </div>
+            <div class="menu">
+                @Html.Partial("Menu")
+            </div>
+            <div class="main">
+                @RenderBody()
+            </div>
+            <!-- SUPPORT ONLINE -->
+
+            <!-- CODE -->
+
+            <!-- END -->
+            @*<embed src="/Content/razer/faded.mp3" width="0" height="0" type="audio/mp3" loop="infinite">*@
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        /*
+                        var defaults = {
+                            containerID: 'toTop', // fading element id
+                            containerHoverID: 'toTopHover', // fading element hover id
+                            scrollSpeed: 1200,
+                            easingType: 'linear'
+                        };
+                        */
+
+                        $().UItoTop({ easingType: 'easeOutQuart' });
+
+                    });
+                </script>
+                <a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
+                <link href="/Content/css/flexslider.css" rel='stylesheet' type='text/css' />
+                <script defer src="/Content/js/jquery.flexslider.js"></script>
+                <script type="text/javascript">
+                    $(function () {
+                        SyntaxHighlighter.all();
+                    });
+                    $(window).load(function () {
+                        $('.flexslider').flexslider({
+                            animation: "slide",
+                            start: function (slider) {
+                                $('body').removeClass('loading');
+                            }
+                        });
+                    });
+                </script>
+            <!-- CLICK -->
+            @*<style type="text/css">
+                a:hover, a.link:hover, a.navbar:hover {
+                    background-image: url(http://www.poqbum.com/animated_hover/images/grey_stars.gif);
+                    font-size: 10pt;
+                    color:;
+                    text-decoration: none;
+                    border: 1px solid;
+                }
+            </style>*@
+
+            <!-- CHẶN CHUỘT PHẢI -->
+
+            @*<script src="/Content/js/jquery-1.4.2.min.js"></script>
+            <script type="text/javascript">
+                $(document).bind('contextmenu', function (e) { return false; });
+            </script>*@
+
+
+            
+
+            </div>
+        </div>
+
+    
+</body>
+</html>
+

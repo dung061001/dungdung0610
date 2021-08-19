@@ -1,0 +1,82 @@
+﻿@using Mars_Store.Security;
+@using Mars_Store.ViewModels;
+@model tblSanPhamViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<div class="main">
+    <div class="content">
+        @*<div class="content_top">
+                <div class="clear"></div>
+            </div>*@
+        <div class="section group">
+            <div class="cont-desc span_1_of_2">
+                <div class="grid images_3_of_2">
+                    <img src="/Content/images/@Model.ImgLink" alt="" />
+                </div>
+                <div class="desc span_3_of_2">
+                    <h2>Tên sản phẩm: @Model.tensanpham</h2>
+                    <div class="price">
+                        <p>GIÁ SẢN PHẨM: <span>@string.Format("{0:##,#}", @Model.giabd) VNĐ</span></p>
+                    </div>
+                    <div class="available">
+                        <ul>
+                            <li>
+                                ☞ MÀU SẮC: @Model.mausac
+                            </li><br />
+                            <li>
+                                ☞ BỘ NHỚ: @Model.memory
+                            </li><br />
+                            <li>
+                                ☞ VI XỬ LÝ: @Model.cpuz
+                            </li><br />
+                            <li>
+                                ☞ HỆ ĐIỀU HÀNH: @Model.hedieuhanh
+                            </li><br />
+                            <li>
+                                ☞ PHỤ KIỆN ĐI KÈM: @Model.phukiendikem
+                            </li><br />
+                            <li>
+                                ☞ CHẾ ĐỘ BẢO HÀNH: @Model.chedobaohanh
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="add-cart">
+                       
+                        <div class="button"><span><a href="/Cart/AddItem/@Model.ID_SP">MUA HÀNG</a></span></div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="product-desc">
+                    <h2>THÔNG TIN CHI TIẾT SẢN PHẨM</h2><br />
+                    <p>✧ TÊN SẢN PHẨM: @Model.tensanpham</p><br />
+                    <p>✧ KHỐI LƯỢNG: @Model.trongluong KG</p><br />
+                    <p>✧ RAM: @Model.memory</p><br />
+                    <p>✧ CARD MÀN HÌNH: @Model.vga</p><br />
+                    <p>✧ HỆ ĐIỀU HÀNH: @Model.hedieuhanh</p><br />
+                    <p>✧ BỘ VI XỬ LÝ: @Model.cpuz</p><br />
+                    <p>✧ THỜI LƯỢNG PIN: @Model.battery</p><br />
+                    <p>✧ PHỤ KIỆN ĐI KÈM: @Model.phukiendikem</p><br />
+                </div>
+                
+               
+<style>
+    .images_1_of_4 {
+        width: 20.8%;
+        padding: 1.5%;
+        height: 250px;
+        text-align: center;
+        position: static;
+    }
+
+    textarea {
+        font-family: a;
+        border-color: rgb(169, 169, 169);
+        width: 662px;
+        height: 85px;
+    }
+</style>
